@@ -1,5 +1,6 @@
 # Overview
 This repository containts a Face Mask Detection Model fine-tuned from the Faster R-CNN (PyTorch). The model is trained to detect faces and whether they are wearing mask or not.
+Kaggle notebook: https://www.kaggle.com/code/anhvinh/face-mask-detection
 
 # Model
 Faster R-CNN (PyTorch) model, fine-tuned to detect faces with or without mask.
