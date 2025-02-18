@@ -22,7 +22,9 @@ The original dataset contains 4269 images and 20 different labels, including a c
 
 # Example result
 ![image](https://github.com/user-attachments/assets/c7ee1be0-618a-43f4-bb42-a52528ece4b2)
+
 ![image](https://github.com/user-attachments/assets/e6b1edfd-fbd2-4813-9e32-8a30f24aca99)
+
 ![image](https://github.com/user-attachments/assets/dbfffdb3-fa42-4f6e-bec2-37fd50951cdc)
 
 The image quality does affect the model's confidence like in the first image, the model is also confused when there are other wearable that is not mask like in the second image.
