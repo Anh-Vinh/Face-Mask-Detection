@@ -20,8 +20,14 @@ The original dataset contains 4269 images and 20 different labels. For this proj
 # Evaluation
 | Metric                     | Value    |
 |----------------------------|----------|
-| **Precision**              | 82.5%    |
-| **Recall**                 | 79.9%    |
+| **Train Box Loss**         | 0.662    |
+| **Train Class Loss**       | 0.349    |
+| **Train DFL Loss**         | 1.026    |
+| **Validation Box Loss**    | 0.985    |
+| **Validation Class Loss**  | 0.602    |
+| **Validation DFL Loss**    | 1.291    |
+| **Validation Precision**   | 82.5%    |
+| **Validation Recall**      | 79.9%    |
 | **Validation mAP50**       | 83.7%    |
 | **Validation mAP50-95**    | 58.6%    |
 
